@@ -1,0 +1,11 @@
+{
+  "name": "email-service",
+  "version": "1.0.0",
+  "description": "Resilient Email Sending Service in Javascript based service which delivers emails reliably.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/EmailService.test.js"
+  },
+  "author": "Ishrat",
+  "license": "ISC"
+}
